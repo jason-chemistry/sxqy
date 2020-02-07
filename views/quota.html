@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>数据可视化demo</title>
+		<link href="../styles/common.css" rel="stylesheet">
+		<script src="../scripts/Plugin/jquery-3.3.1.min.js"></script>
+		<script src="../scripts/Plugin/echarts.min.js"></script>
+
+		<script src="../scripts/common.js"></script>
+		<script src="../scripts/quota.js"></script>
+	</head>
+
+	<body>
+		<!--顶部-->
+		<header class="header left">
+			<div class="left nav">
+				<ul>
+					<li></li>
+				</ul>
+			</div>
+			<div class="header_center left" style="position:relative">
+
+				<h2><strong>医院大数据可视化（决策）平台</strong></h2>
+
+			</div>
+			<div class="right nav text_right">
+				<ul>
+
+				</ul>
+			</div>
+
+		</header>
+		<!--内容部分-->
+		<div class="con left">
+			<!--数据总概-->
+			<div class="con_div">
+				<div class="con_div_text left">
+					<div class="con_div_text01 left">
+						<img src="../images/info_7.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>门诊药占比:</p>
+							<p>40.66%</p>
+						</div>
+					</div>
+					<div class="con_div_text01 right">
+						<img src="../images/info_8.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>门诊均值费用:</p>
+							<p>157.16</p>
+						</div>
+					</div>
+					<div class="con_div_text01 left">
+						<img src="../images/info_9.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>住院药占比</p>
+							<p>21.11%</p>
+						</div>
+					</div>
+					<div class="con_div_text01 right">
+						<img src="../images/info_10.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>住院均值费用</p>
+							<p>6902.76</p>
+						</div>
+					</div>
+					<div class="con_div_text01 left">
+						<img src="../images/info_11.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>总药占比</p>
+							<p>29.33%</p>
+						</div>
+					</div>
+					<div class="con_div_text01 right">
+						<img src="../images/info_12.png" class="left text01_img" />
+						<div class="left text01_div">
+							<p>门诊预约率</p>
+							<p>24.37%</p>
+						</div>
+					</div>
+				</div>
+				<div class="left div_any01">
+					<div class="div_any_child">
+						<div class="div_any_title">今日数据</div>
+						<div class="con_div_text01 left">
+
+							<div class="left text03_div">
+								<p>门诊人数</p>
+								<p class="sky">352</p>
+							</div>
+						</div>
+						<div class="con_div_text01 right">
+
+							<div class="left text03_div">
+								<p>在院人数</p>
+								<p class="sky">115</p>
+							</div>
+						</div>
+						<div class="con_div_text01 left">
+
+							<div class="left text03_div">
+								<p>入院人次</p>
+								<p class="sky">11</p>
+							</div>
+						</div>
+						<div class="con_div_text01 right">
+
+							<div class="left text03_div">
+								<p>检查人次</p>
+								<p class="sky">213</p>
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+				<div class="left div_any01">
+					<div class="div_any_child" style="margin-left: 160px;">
+						<div class="div_any_title">今日门急诊人次</div>
+						 <div id="lineChart1"  style="width: 100%;height: 100%;display: inline-block;"></div>
+
+					</div>
+
+				</div>
+
+				<!--<div class="_text left">-->
+				<!--<div class="con_div_text01 left">-->
+				<!--<img src="../images/info_3.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>总门诊数(人)</p>-->
+				<!--<p class="sky">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text01 right">-->
+				<!--<img src="../images/info_4.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>当月门诊数(人)</p>-->
+				<!--<p class="sky">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text left">-->
+
+				<!--<div class="con_div_text01 left">-->
+				<!--<img src="../images/info_5.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>总住院数(人)</p>-->
+				<!--<p class="org">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text01 right">-->
+				<!--<img src="../images/info_6.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>当月住院数(人)</p>-->
+				<!--<p class="org">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text left">-->
+				<!--<div class="con_div_text01 left">-->
+				<!--<img src="../images/info_9.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>全年体检人数(人)</p>-->
+				<!--<p class="sky">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text01 right">-->
+				<!--<img src="../images/info_10.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>当月体检人数(人)</p>-->
+				<!--<p class="sky">12356</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text left">-->
+
+				<!--<div class="con_div_text01 left">-->
+				<!--<img src="../images/info_11.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>西药占比</p>-->
+				<!--<p class="org">92%</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--<div class="con_div_text01 right">-->
+				<!--<img src="../images/info_12.png" class="left text01_img"/>-->
+				<!--<div class="left text01_div">-->
+				<!--<p>中药占比</p>-->
+				<!--<p class="org">8%</p>-->
+				<!--</div>-->
+				<!--</div>-->
+				<!--</div>-->
+			</div>
+ 		<div class="left div_any01">
+            <div class="div_any_child01">
+                
+                <p id="lineChart1" class="p_chart"></p>
+            </div>
+    
+        </div>
+			<!--统计分析图-->
+			<!--<div class="div_any">
+        <div class="left div_any01">
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_5.png">各医院门诊人次(人)</div>
+                <p id="histogramChart1" class="p_chart"></p>
+            </div>
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_6.png">各医院住院人次(人)</div>
+                <p id="histogramChart2" class="p_chart"></p>
+            </div>
+        </div>
+        <div class="left div_any01">
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_7.png">各医院医疗费用(元)</div>
+                <p id="lineChart1" class="p_chart"></p>
+            </div>
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_8.png">各医院体检人次(人)</div>
+                <p id="lineChart2" class="p_chart"></p>
+            </div>
+        </div>
+        <div class="left div_any01">
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_9.png">药占比(%)</div>
+                <p id="histogramChart3" class="p_chart"></p>
+            </div>
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_10.png">平均住院天数(天)</div>
+                <p id="histogramChart4" class="p_chart"></p>
+            </div>
+        </div>
+        <div class="left div_any01">
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_11.png">手术工作量(台)</div>
+                <p id="pieChart1" class="p_chart"></p>
+            </div>
+            <div class="div_any_child">
+                <div class="div_any_title"><img src="../images/title_12.png">床位数量分布(床)</div>
+                <p id="pieChart2" class="p_chart"></p>
+            </div>
+        </div>
+    </div>-->
+
+		</div>
+	</body>
+
+</html>

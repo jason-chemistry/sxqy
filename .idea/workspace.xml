@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="476c378e-fd2c-46ed-812a-5b94a592d412" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1422997523">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="10" />
+          <entry key="js" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="19" />
+          <entry key="html" value="232" />
+          <entry key="js" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="19" />
+          <entry key="HTML" value="232" />
+          <entry key="JavaScript" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/quota.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/trend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1840">
+              <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8004">
+              <caret line="348" column="16" selection-start-line="348" selection-start-column="16" selection-end-line="348" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/quota.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/trend.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/chronic.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2139">
+              <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="102" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>left</find>
+      <find>mapChart</find>
+      <find>right</find>
+      <find>text01_div</find>
+      <find>con_div</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;数据可视化demo\&lt;\/title\&gt;\n    \&lt;link href\=\&quot;\.\.\/styles\/common\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n    \&lt;script src\=\&quot;\.\.\/scripts\/Plugin\/jquery\-3\.3\.1\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\.\.\/scripts\/Plugin\/echarts\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\.\.\/scripts\/Plugin\/bmap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;http\:\/\/api\.map\.baidu\.com\/api\?v\=2\.0\&amp;ak\=LelFSt6BfykGf8m3PB5zr8LaXAG2cMg6\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\.\.\/scripts\/common\.js\&quot;\&gt;\&lt;\/script\&gt;\n    \&lt;script src\=\&quot;\.\.\/scripts\/quota\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;\!\-\-顶部\-\-\&gt;\n\&lt;header class\=\&quot;header left\&quot;\&gt;\n  \&lt;div class\=\&quot;left nav\&quot;\&gt;\n      \&lt;ul\&gt;\n        \]\n      \&lt;\/ul\&gt;\n  \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;header_center left\&quot; style\=\&quot;position\:relative\&quot;\&gt;\n        \n        \&lt;h2\&gt;\&lt;strong\&gt;医院大数据可视化\（决策\）平台\&lt;\/strong\&gt;\&lt;\/h2\&gt;\n\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;right nav text_right\&quot;\&gt;\n        \&lt;ul\&gt;\n\n        \&lt;\/ul\&gt;\n    \&lt;\/div\&gt;\n\n\&lt;\/header\&gt;\n\&lt;\!\-\-内容部分\-\-\&gt;\n\&lt;div class\=\&quot;con left\&quot;\&gt;\n  \&lt;\!\-\-数据总概\-\-\&gt;\n  \&lt;div class\=\&quot;con_div\&quot;\&gt;\n      \&lt;div class\=\&quot;con_div_text left\&quot;\&gt;\n          \&lt;div class\=\&quot;con_div_text01 left\&quot;\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_7\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n                  \&lt;p\&gt;门诊药占比\&lt;\/p\&gt;\n                  \&lt;p\&gt;1235\&lt;\/p\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;con_div_text01 right\&quot;\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_8\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n                  \&lt;p\&gt;门诊均值费用\&lt;\/p\&gt;\n                  \&lt;p\&gt;235\&lt;\/p\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;con_div_text01 left\&quot;\&gt;\n          \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_7\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n          \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n              \&lt;p\&gt;住院药占比\&lt;\/p\&gt;\n              \&lt;p\&gt;1235\&lt;\/p\&gt;\n          \&lt;\/div\&gt;\n      \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;con_div_text01 right\&quot;\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_7\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n                  \&lt;p\&gt;住院均值费用\&lt;\/p\&gt;\n                  \&lt;p\&gt;1235\&lt;\/p\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;con_div_text01 left\&quot;\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_7\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n                  \&lt;p\&gt;总药占比\&lt;\/p\&gt;\n                  \&lt;p\&gt;1235\&lt;\/p\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div class\=\&quot;con_div_text01 right\&quot;\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_7\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;div class\=\&quot;left text01_div\&quot;\&gt;\n                  \&lt;p\&gt;门诊预约率\&lt;\/p\&gt;\n                  \&lt;p\&gt;1235\&lt;\/p\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n      \&lt;\/div\&gt;\n      \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text left\&quot;\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text01 left\&quot;\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_9\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;div class\=\&quot;left text01_div\&quot;\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p\&gt;全年体检人数\(人\)\&lt;\/p\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p class\=\&quot;sky\&quot;\&gt;12356\&lt;\/p\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text01 right\&quot;\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_10\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;div class\=\&quot;left text01_div\&quot;\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p\&gt;当月体检人数\(人\)\&lt;\/p\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p class\=\&quot;sky\&quot;\&gt;12356\&lt;\/p\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text left\&quot;\&gt;\-\-\&gt;\n\n          \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text01 left\&quot;\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_11\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;div class\=\&quot;left text01_div\&quot;\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p\&gt;西药占比\&lt;\/p\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p class\=\&quot;org\&quot;\&gt;92\%\&lt;\/p\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;div class\=\&quot;con_div_text01 right\&quot;\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;img src\=\&quot;\.\.\/images\/info_12\.png\&quot; class\=\&quot;left text01_img\&quot;\/\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;div class\=\&quot;left text01_div\&quot;\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p\&gt;中药占比\&lt;\/p\&gt;\-\-\&gt;\n                  \&lt;\!\-\-\&lt;p class\=\&quot;org\&quot;\&gt;8\%\&lt;\/p\&gt;\-\-\&gt;\n              \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n          \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;\/div\&gt;\-\-\&gt;\n  \&lt;\/div\&gt;\n    \&lt;\!\-\-统计分析图\-\-\&gt;\n    \&lt;\!\-\-\&lt;div class\=\&quot;div_any\&quot;\&gt;\n        \&lt;div class\=\&quot;left div_any01\&quot;\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_5\.png\&quot;\&gt;各医院门诊人次\(人\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;histogramChart1\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_6\.png\&quot;\&gt;各医院住院人次\(人\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;histogramChart2\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;left div_any01\&quot;\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_7\.png\&quot;\&gt;各医院医疗费用\(元\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;lineChart1\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_8\.png\&quot;\&gt;各医院体检人次\(人\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;lineChart2\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;left div_any01\&quot;\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_9\.png\&quot;\&gt;药占比\(\%\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;histogramChart3\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_10\.png\&quot;\&gt;平均住院天数\(天\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;histogramChart4\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;left div_any01\&quot;\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_11\.png\&quot;\&gt;手术工作量\(台\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;pieChart1\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;div_any_child\&quot;\&gt;\n                \&lt;div class\=\&quot;div_any_title\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/images\/title_12\.png\&quot;\&gt;床位数量分布\(床\)\&lt;\/div\&gt;\n                \&lt;p id\=\&quot;pieChart2\&quot; class\=\&quot;p_chart\&quot;\&gt;\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\-\-\&gt;\n\n\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>con_div_text01</find>
+      <find>init</find>
+      <find>con_div_text</find>
+      <find>a</find>
+      <find>nav_active</find>
+      <find>div_any</find>
+      <find>div_any01</find>
+      <find>div_any_child</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/NCDindex.js" />
+        <option value="$PROJECT_DIR$/scripts/index.js" />
+        <option value="$PROJECT_DIR$/scripts/Plugin/bmap.min.js" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/scripts/quota.js" />
+        <option value="$PROJECT_DIR$/scripts/trend.js" />
+        <option value="$PROJECT_DIR$/styles/common.css" />
+        <option value="$PROJECT_DIR$/views/quota.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="5e3bde375ffc8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5e3bde375ffc8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5e3bde375ffc8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5e3bde375ffc8" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5e3bde375ffc8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5e3bde375ffc8" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5e3bde375ffc8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5e3bde375ffc8" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5e3bde375ffc8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5e3bde375ffc8" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476c378e-fd2c-46ed-812a-5b94a592d412" name="Default Changelist" comment="" />
+      <created>1580989822235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580989822235</updated>
+      <workItem from="1580989825658" duration="5401000" />
+      <workItem from="1580998419919" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5485000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18322763" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/Plugin/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/NCDindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Plugin/bmap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/NCDindex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/chronic.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/quota.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/trend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8004">
+          <caret line="348" column="16" selection-start-line="348" selection-start-column="16" selection-end-line="348" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/trend.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/chronic.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="102" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/quota.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
